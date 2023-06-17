@@ -1,1 +1,1 @@
-# aws-api-key-finder
+# aws-api-key-generator
